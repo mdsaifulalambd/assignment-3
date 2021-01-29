@@ -9,7 +9,7 @@ function kilometerToMeter(km){
 
    
 
-//A budget to calculate.
+//A Function to calculate budget.
 
 function budgetCalculator(watch, mobile, laptop){
     
